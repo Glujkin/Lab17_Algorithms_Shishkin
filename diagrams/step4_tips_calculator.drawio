@@ -1,0 +1,37 @@
+<mxfile host="65bd71144e">
+    <diagram id="krXGE7shjNJEDnNLGdsh" name="Page-1">
+        <mxGraphModel dx="1509" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="fzGYdTgpjDMhT5JoC_wQ-3" edge="1" parent="1" source="fzGYdTgpjDMhT5JoC_wQ-1" style="edgeStyle=none;html=1;" target="fzGYdTgpjDMhT5JoC_wQ-2" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="fzGYdTgpjDMhT5JoC_wQ-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Начало" vertex="1">
+                    <mxGeometry height="80" width="120" x="340" y="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="fzGYdTgpjDMhT5JoC_wQ-5" edge="1" parent="1" source="fzGYdTgpjDMhT5JoC_wQ-2" style="edgeStyle=none;html=1;" target="fzGYdTgpjDMhT5JoC_wQ-4" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="fzGYdTgpjDMhT5JoC_wQ-2" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Ввод:Сумма счета&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="70" width="280" x="260" y="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="fzGYdTgpjDMhT5JoC_wQ-7" edge="1" parent="1" source="fzGYdTgpjDMhT5JoC_wQ-4" style="edgeStyle=none;html=1;" target="fzGYdTgpjDMhT5JoC_wQ-6" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="fzGYdTgpjDMhT5JoC_wQ-4" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Ввод: процент чаевых" vertex="1">
+                    <mxGeometry height="70" width="280" x="250" y="300" as="geometry"/>
+                </mxCell>
+                <mxCell id="fzGYdTgpjDMhT5JoC_wQ-9" edge="1" parent="1" source="fzGYdTgpjDMhT5JoC_wQ-6" style="edgeStyle=none;html=1;" target="fzGYdTgpjDMhT5JoC_wQ-8" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="fzGYdTgpjDMhT5JoC_wQ-6" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Вычеисление: чаевые=счет x процент / 100" vertex="1">
+                    <mxGeometry height="80" width="280" x="240" y="420" as="geometry"/>
+                </mxCell>
+                <mxCell id="fzGYdTgpjDMhT5JoC_wQ-8" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Вычесление: итого= счет+чаевые" vertex="1">
+                    <mxGeometry height="80" width="280" x="240" y="540" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
