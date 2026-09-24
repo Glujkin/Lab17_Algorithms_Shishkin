@@ -1,0 +1,31 @@
+<mxfile host="65bd71144e">
+    <diagram id="ffafKZQsjxyVzf52UKei" name="Page-1">
+        <mxGraphModel dx="1056" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="pNHOeRSz2VNeBacf-qvN-3" edge="1" parent="1" source="pNHOeRSz2VNeBacf-qvN-1" style="edgeStyle=none;html=1;" target="pNHOeRSz2VNeBacf-qvN-2" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="pNHOeRSz2VNeBacf-qvN-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Начало&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="80" width="120" x="350" y="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="pNHOeRSz2VNeBacf-qvN-5" edge="1" parent="1" source="pNHOeRSz2VNeBacf-qvN-2" style="edgeStyle=none;html=1;" target="pNHOeRSz2VNeBacf-qvN-4" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="pNHOeRSz2VNeBacf-qvN-2" parent="1" style="whiteSpace=wrap;html=1;" value="Цикл For&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="60" width="120" x="350" y="190" as="geometry"/>
+                </mxCell>
+                <mxCell id="pNHOeRSz2VNeBacf-qvN-7" edge="1" parent="1" source="pNHOeRSz2VNeBacf-qvN-4" style="edgeStyle=none;html=1;" target="pNHOeRSz2VNeBacf-qvN-6" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="pNHOeRSz2VNeBacf-qvN-4" parent="1" style="whiteSpace=wrap;html=1;" value="Вывод" vertex="1">
+                    <mxGeometry height="60" width="120" x="350" y="290" as="geometry"/>
+                </mxCell>
+                <mxCell id="pNHOeRSz2VNeBacf-qvN-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Конец&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="80" width="120" x="350" y="390" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
