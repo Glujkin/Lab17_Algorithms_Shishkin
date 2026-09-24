@@ -1,0 +1,83 @@
+<mxfile host="65bd71144e">
+    <diagram id="FBHvQ-0uefAm5sNyRr2K" name="Page-1">
+        <mxGraphModel dx="524" dy="339" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="BkQGA4xVmMqcYCTvP9C5-4" edge="1" parent="1" source="BkQGA4xVmMqcYCTvP9C5-1" style="edgeStyle=none;html=1;" target="BkQGA4xVmMqcYCTvP9C5-2" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="BkQGA4xVmMqcYCTvP9C5-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Начало&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="140" width="205" x="270" y="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="BkQGA4xVmMqcYCTvP9C5-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Взять чайник" vertex="1">
+                    <mxGeometry height="60" width="120" x="312.5" y="350" as="geometry"/>
+                </mxCell>
+                <mxCell id="BkQGA4xVmMqcYCTvP9C5-9" edge="1" parent="1" source="BkQGA4xVmMqcYCTvP9C5-5" style="edgeStyle=none;html=1;" target="BkQGA4xVmMqcYCTvP9C5-7" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="BkQGA4xVmMqcYCTvP9C5-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Налить воду" vertex="1">
+                    <mxGeometry height="60" width="120" x="312.5" y="450" as="geometry"/>
+                </mxCell>
+                <mxCell id="BkQGA4xVmMqcYCTvP9C5-6" edge="1" parent="1" source="BkQGA4xVmMqcYCTvP9C5-2" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="BkQGA4xVmMqcYCTvP9C5-5" value="">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <Array as="points"/>
+                        <mxPoint x="371.25" y="380" as="sourcePoint"/>
+                        <mxPoint x="373.75" y="460" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="BkQGA4xVmMqcYCTvP9C5-11" edge="1" parent="1" source="BkQGA4xVmMqcYCTvP9C5-7" style="edgeStyle=none;html=1;" target="BkQGA4xVmMqcYCTvP9C5-10" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="BkQGA4xVmMqcYCTvP9C5-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Поставить на плиту&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="60" width="120" x="312.5" y="560" as="geometry"/>
+                </mxCell>
+                <mxCell id="BkQGA4xVmMqcYCTvP9C5-13" edge="1" parent="1" source="BkQGA4xVmMqcYCTvP9C5-10" style="edgeStyle=none;html=1;" target="BkQGA4xVmMqcYCTvP9C5-12" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="BkQGA4xVmMqcYCTvP9C5-10" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Включить плиту" vertex="1">
+                    <mxGeometry height="60" width="120" x="312.5" y="650" as="geometry"/>
+                </mxCell>
+                <mxCell id="BkQGA4xVmMqcYCTvP9C5-15" edge="1" parent="1" source="BkQGA4xVmMqcYCTvP9C5-12" style="edgeStyle=none;html=1;" target="BkQGA4xVmMqcYCTvP9C5-14" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="BkQGA4xVmMqcYCTvP9C5-12" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Дождаться закипания" vertex="1">
+                    <mxGeometry height="60" width="120" x="312.5" y="740" as="geometry"/>
+                </mxCell>
+                <mxCell id="BkQGA4xVmMqcYCTvP9C5-17" edge="1" parent="1" source="BkQGA4xVmMqcYCTvP9C5-14" style="edgeStyle=none;html=1;" target="BkQGA4xVmMqcYCTvP9C5-16" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="BkQGA4xVmMqcYCTvP9C5-14" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Взять чашку&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="60" width="120" x="312.5" y="830" as="geometry"/>
+                </mxCell>
+                <mxCell id="BkQGA4xVmMqcYCTvP9C5-19" edge="1" parent="1" source="BkQGA4xVmMqcYCTvP9C5-16" style="edgeStyle=none;html=1;" target="BkQGA4xVmMqcYCTvP9C5-18" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="BkQGA4xVmMqcYCTvP9C5-16" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Положить чайный пакетик" vertex="1">
+                    <mxGeometry height="60" width="120" x="312.5" y="920" as="geometry"/>
+                </mxCell>
+                <mxCell id="BkQGA4xVmMqcYCTvP9C5-21" edge="1" parent="1" source="BkQGA4xVmMqcYCTvP9C5-18" style="edgeStyle=none;html=1;" target="BkQGA4xVmMqcYCTvP9C5-20" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="BkQGA4xVmMqcYCTvP9C5-18" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Налить кипяток&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="60" width="120" x="312.5" y="1010" as="geometry"/>
+                </mxCell>
+                <mxCell id="BkQGA4xVmMqcYCTvP9C5-23" edge="1" parent="1" source="BkQGA4xVmMqcYCTvP9C5-20" style="edgeStyle=none;html=1;" target="BkQGA4xVmMqcYCTvP9C5-22" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="BkQGA4xVmMqcYCTvP9C5-20" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Добавить сахар" vertex="1">
+                    <mxGeometry height="60" width="120" x="312.5" y="1100" as="geometry"/>
+                </mxCell>
+                <mxCell id="BkQGA4xVmMqcYCTvP9C5-25" edge="1" parent="1" source="BkQGA4xVmMqcYCTvP9C5-22" style="edgeStyle=none;html=1;" target="BkQGA4xVmMqcYCTvP9C5-24" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="BkQGA4xVmMqcYCTvP9C5-22" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Размешать&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="60" width="120" x="312.5" y="1190" as="geometry"/>
+                </mxCell>
+                <mxCell id="BkQGA4xVmMqcYCTvP9C5-24" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Чай готов&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="80" width="120" x="313" y="1280" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
